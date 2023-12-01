@@ -1,0 +1,31 @@
+admin{
+    user_id
+    user_name
+    email
+    password
+    profile
+    action
+}
+
+news{
+    id
+    news_name
+    thumbnail
+    title
+    detail
+    date
+}
+feedback{
+    id
+    username
+    email
+    telephone
+    address
+    message
+}
+follow us{
+    id
+    name
+    icon
+    url
+}
